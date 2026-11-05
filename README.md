@@ -22,8 +22,21 @@ Também gosto de desenvolvimento de software, principalmente de construir sistem
 
 ### Projetos em destaque
 
+**[Indicadores do Banco Central](https://github.com/victormorais07/indicadores-bcb)** · [ver painel](https://victormorais07.github.io/indicadores-bcb/)
+Pipeline que coleta dólar, Selic e IPCA da API do Banco Central todo dia útil, com carga incremental em CSV, testes e agendamento pelo GitHub Actions. Os dados alimentam um painel interativo publicado no GitHub Pages.
+`Python` `pandas` `GitHub Actions` `Chart.js`
+
 **[Supermercado](https://github.com/victormorais07/supermercado)**
 Sistema de supermercado com cadastro de produtos, controle de estoque, caixa (PDV), histórico de vendas, painel com indicadores e login com perfis de acesso. Os dados ficam em arquivos CSV, com a camada de acesso separada pra trocar por um banco depois.
+`Node.js` `Express` `JavaScript`
+
+**[Widgets para Windows](https://github.com/victormorais07/widgets-windows)**
+Barra de tarefas estilo dock, calendário que lê agendas do Google/Outlook pelo iCal e relógio com temperatura da CPU, feitos em PowerShell com WPF e um pouco de C#.
+`PowerShell` `WPF` `C#`
+
+**[Calculadora Widget](https://github.com/victormorais07/calculadora-widget)**
+Calculadora que funciona direto no widget da tela inicial do Android, com contas precisas em `BigDecimal` e APK gerado pelo GitHub Actions.
+`Kotlin` `Android`
 
 ### Contato
 
